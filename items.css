@@ -1,0 +1,36 @@
+h1 {
+    border: 2px solid black;
+    font-size: 3rem;
+    padding-left: 85;
+    color:rgb(21, 136, 136);
+    margin-top: 1rem;
+    background-color: rgb(37, 37, 35);
+    margin-bottom: -30;
+}
+
+h2 { 
+    border: 2px solid black;
+    padding-left: 128;
+    font-size: 2rem;
+    color:rgb(130, 33, 33);
+    margin: 3rem auto;
+    background-color: rgb(140, 189, 187);
+}
+
+h3 {
+    border: 2px solid black;
+    padding-left: 15;
+    background-color: rgb(211, 211, 209);
+}
+
+h4 {
+    border: 2px solid black;
+    padding-left: 1.5rem;
+    background-color: rgb(211, 211, 209);
+    margin-top: 1.5; 
+    margin-left: 25;
+}
+
+h5 {
+    padding-left: 25;
+}
